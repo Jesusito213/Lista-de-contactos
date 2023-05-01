@@ -1,5 +1,5 @@
 
-// Creamos una lista de contactos inicial
+// lista de contactos inicial
 const listaContactos = [
   { nombreCompleto: "Juan Perez" },
   { nombreCompleto: "Maria Rodriguez" },
